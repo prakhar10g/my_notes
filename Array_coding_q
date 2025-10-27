@@ -1,0 +1,16 @@
+//Array questions//
+
+Program to reverse an array
+Program to find duplicates in array
+Program to find the largest element of an array
+Program to find highest sum of two elements from the given array
+Program to move all "0" to end of an array
+Find Maximum and Minimum in a Single Pass
+
+//Level up
+Find Missing Number in Range 1..10?(1,2,3,4,6,7,8,9,10)
+Find all pairs of two elements from the array which can be summed up to given number(ex:12)
+find intersection of two arrays([1,2,3,5,7] and [2,4,6,7])?
+Find union of two arrays?(ex: take the above two arrays as an example or create your own)
+Merge two sorted arrays?(1,2,3,5,7] and [2,4,6,7])
+Find the maximum product of two elements which is divided by 3 from the given array?
