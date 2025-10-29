@@ -1,0 +1,13 @@
+What are the common annotations used in testng?
+What will be the order of execution of annotations?
+Why @DataProvider is used?
+If you have to execute same class or method multiple time, how will you handle that with testng?(Invocation counter)
+How to handle parallel execution with the help of testng?
+How to use @groupBy annotation?
+How to set the priority of testcases?
+How to provide parameters in testng?
+What is listerners? how to customize and use the listeners?
+How to disable any testcase or method with testng?
+Difference between @BeforeMethod and @BeforeClass?
+How to integrate testng with selenium or rest assured?
+Report generation with testng?
